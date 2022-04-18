@@ -1,0 +1,24 @@
+.header{
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.head{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.ahead{
+    font-size: 17px;
+    font-family: 'Inter', sans-serif;
+}
+.cap{
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+}
+.mount{
+    border-radius: 10%;
+}
+.avatar{
+    border-radius:50%;
+}
